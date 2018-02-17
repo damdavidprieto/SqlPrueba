@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SqlPrueba</string>
+
+    <string name="tip_correo">Ingrese correo</string>
+    <string name="tip_contr">Ingrese contraseña</string>
+    <string name="tip_nom">Ingrese nombre</string>
+    <string name="tip_tel">Ingrese telefono</string>
+
+    <string name="txt_aceptar">Aceptar</string>
+    <string name="txt_cancelar">Cancelar</string>
+
+    <string name="txt_ing">Ingresar</string>
+    <string name="txt_reg">Registrar </string>
+    <string name="txt_correo">Correo</string>
+    <string name="txt_contr">Contraseña</string>
+    <string name="txt_nom">Nombre</string>
+    <string name="txt_tel">Telefono</string>
+
+    <string name="txt_login">Ingrese su correo y contraseña</string>
+    <string name="txt_rellenar">Rellene los campos</string>
+    <string name="txt_usuario">Usuario: </string>
+    <string name="txt_tipo">Tipo: </string>
+    <string name="txt_estado">Estado: </string>
+</resources>
